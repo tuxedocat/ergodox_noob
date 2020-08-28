@@ -63,7 +63,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         MO(L_SYS),      XXXXXXX,    XXXXXXX,    MO(L_NAV),  MO(L_CODE),									/* */	MO(L_CODE),		MO(L_NAV),  XXXXXXX,    XXXXXXX,    XXXXXXX,
                                                                         XXXXXXX,	XXXXXXX,			/* */	XXXXXXX,        XXXXXXX,
 																					XXXXXXX,			/* */	XXXXXXX,
-																KC_SPC, LGUI_T(KC_LANG2),   KC_LOPT,	/* */	KC_OPT,        RGUI_T(KC_LANG1),   KC_ENT
+																KC_SPC, LGUI_T(KC_LANG2),   KC_LOPT,	/* */	KC_ROPT,        RGUI_T(KC_LANG1),   KC_ENT
     ),
 
 /* Keymap 1: Code Layer
